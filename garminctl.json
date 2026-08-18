@@ -1,12 +1,12 @@
 {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/garminctl/releases/download/v0.6.0/garminctl_0.6.0_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/garminctl/releases/download/v0.6.1/garminctl_0.6.1_windows_amd64.zip",
             "bin": [
                 "garminctl.exe"
             ],
-            "hash": "9a2a401514609db8ac7fafe08d8fd562f2f2bf12bf7c055b1206b7cc43b03bbb"
+            "hash": "07394bb6c9ebc74afdb0b265cc2b2d0e40f33024d92b753f42db31140774e292"
         }
     }
 }
